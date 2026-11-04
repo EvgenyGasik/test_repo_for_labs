@@ -1,5 +1,5 @@
 # main.py
-print("Calc version 1")
+print("Welcome Calc version 2")
 def add(a, b):
     return a + b
 def subtract(a, b):   # <-- Новая функция
